@@ -69,3 +69,9 @@ body {
     -webkit-font-smoothing: antialiased;
     border: 2px solid black !important;
 }
+.down {
+    align-items: flex-start;
+    background: url('http://nautil.us/assets/site/img/modules/issue-curtain/curtain-down.png?1364760745') no-repeat 50% 0;
+    position: absolute;
+    bottom: 40px;
+    width: 110px;
