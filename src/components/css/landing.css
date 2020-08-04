@@ -112,3 +112,7 @@ body {
     color: (rgb(255, 255, 255));
     opacity: .75;
 }
+#landingIssueLink {
+    font: 700 12px/24px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
