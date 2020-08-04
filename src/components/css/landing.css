@@ -104,3 +104,11 @@ body {
     display: inline-block;
     
 }
+#landingIntro {
+    width: 560px;
+    font: 400 18px/24px "freight-text-pro", Georgia, "Times New Roman", Serif;
+    margin: 0 auto px;
+    margin-bottom: 0;
+    color: (rgb(255, 255, 255));
+    opacity: .75;
+}
