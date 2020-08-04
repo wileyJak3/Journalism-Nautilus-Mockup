@@ -52,3 +52,10 @@ body {
     width: 111vw;
 
 }
+
+#issueButton {
+    font: 700 12px/1px "freight-sans-pro", Helvetica, Arial, sans-serif !important;
+    height: 37px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-decoration: none;
