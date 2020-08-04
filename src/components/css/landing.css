@@ -88,3 +88,11 @@ body {
     z-index: 2;
     color: white;
 }
+
+#landingHeader {
+    font: italic 900 68px/68px "freight-display-pro", Georgia, "Times New Roman", Serif;
+    color: #fff;
+    /*text-transform: uppercase;*/
+    margin: 0 0 .5vh;
+    letter-spacing: -0.01em;
+}
