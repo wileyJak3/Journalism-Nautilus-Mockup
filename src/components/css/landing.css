@@ -36,3 +36,9 @@ body {
     /* background-image: url('../../assets/matches.png'); */
     color: white;
 }
+
+.landingBgImage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-column: 1/3;
