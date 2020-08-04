@@ -81,3 +81,10 @@ body {
     font: 700 12px/12px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
     text-transform: uppercase;
     left: 50%;
+    margin-left: -55px;
+    /* margin-bottom: 2vh; */
+    letter-spacing: .12em;
+    cursor: pointer;
+    z-index: 2;
+    color: white;
+}
