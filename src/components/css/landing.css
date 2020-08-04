@@ -120,3 +120,10 @@ body {
     background-position: bottom;
     background-size: 2px 1px ;
     background-repeat: repeat-x;
+    margin-top: .7vh;
+    margin-bottom: 3vh;
+    /* text-decoration: underline dashed blue ; */
+
+    /* text-decoration-thickness: 1px; */
+
+}
