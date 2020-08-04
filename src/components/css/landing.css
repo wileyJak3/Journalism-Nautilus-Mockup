@@ -75,3 +75,9 @@ body {
     position: absolute;
     bottom: 40px;
     width: 110px;
+    border: none;
+    text-align: center;
+    padding: 58px 0 0;
+    font: 700 12px/12px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+    text-transform: uppercase;
+    left: 50%;
