@@ -1,4 +1,3 @@
-//landing.css
 
 body {
     margin: 0;
@@ -9,6 +8,9 @@ body {
 }
 
 #root {}
+
+
+
 
 .landingContainer {
     margin: 0 auto;
@@ -21,7 +23,11 @@ body {
     padding: 0;
     overflow-x: hidden;
 
+
 }
+
+
+
 
 .landingContent {
     margin-right: 0;
@@ -69,6 +75,7 @@ body {
     -webkit-font-smoothing: antialiased;
     border: 2px solid black !important;
 }
+
 .down {
     align-items: flex-start;
     background: url('http://nautil.us/assets/site/img/modules/issue-curtain/curtain-down.png?1364760745') no-repeat 50% 0;
@@ -96,6 +103,7 @@ body {
     margin: 0 0 .5vh;
     letter-spacing: -0.01em;
 }
+
 #landingSpan {
     font: 800 16px/16px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
     text-transform: uppercase;
@@ -104,6 +112,7 @@ body {
     display: inline-block;
     
 }
+
 #landingIntro {
     width: 560px;
     font: 400 18px/24px "freight-text-pro", Georgia, "Times New Roman", Serif;
@@ -112,14 +121,17 @@ body {
     color: (rgb(255, 255, 255));
     opacity: .75;
 }
+
 #landingIssueLink {
     font: 700 12px/24px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
     letter-spacing: 1px;
     text-transform: uppercase;
+
     background-image: linear-gradient(to right, black 33%, rgba(255,255,255,0) 0%);
     background-position: bottom;
     background-size: 2px 1px ;
     background-repeat: repeat-x;
+    
     margin-top: .7vh;
     margin-bottom: 3vh;
     /* text-decoration: underline dashed blue ; */
@@ -127,6 +139,7 @@ body {
     /* text-decoration-thickness: 1px; */
 
 }
+
 #landingIssueLink a {
     text-decoration-thickness: 20px;
 }
