@@ -64,3 +64,8 @@ body {
     margin: 0 auto 20px auto;
     min-width: 87px;
     display: inline-block;
+    color: #fff;
+    background: #000;
+    -webkit-font-smoothing: antialiased;
+    border: 2px solid black !important;
+}
