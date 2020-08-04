@@ -59,3 +59,8 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.1em;
     text-decoration: none;
+    text-align: center;
+    padding: 18px 12px !important;
+    margin: 0 auto 20px auto;
+    min-width: 87px;
+    display: inline-block;
