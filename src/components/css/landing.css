@@ -21,5 +21,12 @@ body {
     padding: 0;
     overflow-x: hidden;
 
-
 }
+
+.landingContent {
+    margin-right: 0;
+    margin-left: 0;
+    grid-column: 1/3;
+    grid-row: 1/2;
+    z-index: 2;
+    margin-top: 36vh;
